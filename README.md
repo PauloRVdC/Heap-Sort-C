@@ -1,2 +1,2 @@
 # Heap-Sort-C
-A heap sort implementation em C
+A heap sort implementation in C
