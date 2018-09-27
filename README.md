@@ -1,2 +1,2 @@
 # Heap-Sort-C
-A heap sort implementation in C
+The first element of the array is the size of the heap tree
